@@ -39,6 +39,7 @@ canvas{
     background-color: #c659ee;
     border-radius: 30px;
     font-family: 'Ubuntu', sans-serif;  
+    padding: 0.5rem;
 }
 .instructions2 {
     width:280px;
@@ -53,6 +54,7 @@ canvas{
     background-color: #c659ee;
     border-radius: 30px;
     font-family: 'Ubuntu', sans-serif;
+    padding: 0.5rem;
 }
 .instructions3 {
      width:250px;
@@ -66,7 +68,8 @@ canvas{
     border: 4px solid hsl(0, 0%, 6%);
     background-color: #c659ee;
     border-radius: 30px;
-    font-family: 'Ubuntu', sans-serif;    
+    font-family: 'Ubuntu', sans-serif;  
+    padding: 0.5rem;  
 }
 
 .score {
@@ -81,6 +84,7 @@ canvas{
     background-color: #ecf413;
     border-radius: 40px;
     font-family: 'Ubuntu', sans-serif;
+    
     
 }
 
